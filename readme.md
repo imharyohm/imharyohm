@@ -58,5 +58,5 @@
 
 
 <br>
-<footer align='center'>README made with help of Hariom  </footer>
+
 
