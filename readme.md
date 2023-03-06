@@ -47,6 +47,9 @@
 </a>
 <br>
 
+  <h2>My acheivement in Hacktoberfest </h2>
+  
+  [![An image of @imharyohm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imharyohm)](https://holopin.io/@imharyohm)
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
